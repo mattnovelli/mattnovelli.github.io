@@ -7,4 +7,13 @@ body {
   color: black;
   font-family: Verdana;
 }
-ul { display:table; margin:0 auto;}
+ul {
+    display:table; margin:0 auto;
+}
+p {
+  margin-left: 400px;
+  margin-right: 400px;
+}
+div.j {
+  text-align: justify;
+}
