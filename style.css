@@ -17,3 +17,7 @@ p {
 div.j {
   text-align: justify;
 }
+#page-wrap {
+     width: 300px;
+     margin: 0 auto;
+}
