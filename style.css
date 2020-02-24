@@ -10,13 +10,6 @@ body {
 ul {
     display:table; margin:0 auto;
 }
-p {
-  padding-left:400px;
-  padding-right: 400px;
-}
-div.j {
-  text-align: justify;
-}
 #page-wrap {
      width: 300px;
      margin: 0 auto;
