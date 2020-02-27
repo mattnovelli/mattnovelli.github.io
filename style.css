@@ -5,8 +5,7 @@
 body {
     background-color: white;
     color: black;
-    font-family: Verdana;
-
+    font-family: sans-serif;
 }
 div {
     margin-left: auto;
@@ -14,4 +13,8 @@ div {
     max-width: 30em;
     font-size: 110%;
     text-align: justify;
+}
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
 }
