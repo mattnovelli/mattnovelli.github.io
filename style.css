@@ -38,3 +38,7 @@ figcaption {
     line-height: normal;
 
 }
+sub {
+    padding-top: -5px;
+    padding-bottom: 10px;
+}
