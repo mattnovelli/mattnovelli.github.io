@@ -13,7 +13,7 @@ h1 {
 }
 
 h1 {
-	font-size: 200%;
+	font-size: 300%;
 	text-align: center
 }
 
@@ -37,15 +37,15 @@ code {
 }
 
 em {
-	background: #fefd80;
-	border: 30px solid #fefd80;
+	background: #2F4C4A;
+	border: 20px solid #2F4C4A;
 	float: left;
 	font-style: normal;
-	line-height: 1.25em;
-	margin-bottom: 10px;
-	margin-left: 10px;
-	margin-right: 10px;
-	margin-top: -10px
+/*	line-height: 1.25em;*/
+/*	margin-bottom: 10px;*/
+	margin-left: 5px;
+	margin-right: 5px;
+/*	margin-top: -7px*/
 }
 
 dt {
@@ -54,12 +54,15 @@ dt {
 }
 
 body {
-	background-image: url("topography.png");
+    color: #B5CA8D;
+    background-color: #426B69;
+    background-image: url("topography.png");
+    background-blend-mode: color-burn;
 	background-repeat: repeat;
 }
 
 h1 {
-	text-shadow: 1px 1px #1235;
+	text-shadow: 3px 2px #1235;
 }
 h2{
     margin-top: 0
@@ -68,6 +71,21 @@ h3{
     margin-bottom: 0
 }
 p{
+    color: white;
     text-align: justify
     
+}
+hr{
+    color: #8BB174
+}
+a:link {
+  color: #C9D8AB;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #B7CC8F;
+  background-color: transparent;
+  text-decoration: underline;
 }
