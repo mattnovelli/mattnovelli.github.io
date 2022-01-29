@@ -1,0 +1,63 @@
+body {
+    background-image: url("dot-grid.png");
+    background-repeat: repeat;
+/*    background-color: white;*/
+    color: black;
+    font-family: serif;
+    line-height: 25px;
+}
+div {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 20em;
+    font-size: 110%;
+    text-align: justify;
+}
+p {
+    max-width: 20em;
+    text-align: justify;
+    margin-top: 5px;
+}
+h1 {
+    font-family: serif;
+    font-size: 200%;
+    line-height:normal;
+}
+h3 {
+    max-width: 20em;
+    text-align: left;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+sup {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: x-small;
+
+}
+figcaption {
+    font-family: serif;
+    color: dimgray;
+    font-size: 70%;
+    max-width: 15em;
+    line-height: normal;
+
+}
+sub {
+    padding-top: -5px;
+    padding-bottom: 10px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    width: 100%
+}
+em {
+    background: #fefd80;
+    border: 20px solid #fefd80;
+    float: left;
+    text-align: left;
+    font-style:normal;
+    margin-bottom: 20px;
+}

@@ -1,10 +1,8 @@
 body {
     background-image: url("dot-grid.png");
     background-repeat: repeat;
-/*    background-color: white;*/
-    color: black;
     font-family: serif;
-    line-height: 25px;
+    line-height: 150%;
 }
 div {
     margin-left: auto;
@@ -14,16 +12,15 @@ div {
     text-align: justify;
 }
 p {
-    max-width: 20em;
+    max-width: 29em;
     text-align: justify;
     margin-top: 5px;
 }
 h1 {
-    font-family: serif;
     font-size: 200%;
+    line-height:normal;
 }
 h3 {
-    max-width: 20em;
     text-align: left;
     margin-bottom: 0;
     padding-bottom: 0;
@@ -54,12 +51,15 @@ sub {
 }
 em {
     background: #fefd80;
-    border: 5px solid #fefd80;
+    border: 20px solid #fefd80;
     float: left;
-    font-style: normal;
-    line-height: 1.25em;
-    margin-bottom: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-top: -10px;
+    text-align: left;
+    font-style:normal;
+    margin-bottom: 20px;
+}
+hr {
+    border: .1px;
+    color: black;
+    border-style: dashed;
+    margin-bottom: 1em;
 }
