@@ -10,3 +10,7 @@ TODO
  * description, t shirts
 * film photography
 * LED matrix sign redux
+* WPGU site
+* mtd alert
+* indesign plugin
+* 
